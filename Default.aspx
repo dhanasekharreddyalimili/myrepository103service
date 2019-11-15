@@ -19,6 +19,19 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
         </div>
+        
+        
+        <div class="col-md-4">
+            <h2>Office 365 for Sharepoint</h2>
+            <p>
+               Welcome office 365 for sharepoint online.
+            </p>
+            <p>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+            </p>
+        </div>
+        
+        
 
          <div class="col-md-4">
             <h2>sharepiont 2019</h2>
