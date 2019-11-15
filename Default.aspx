@@ -20,7 +20,7 @@
             </p>
         </div>
          
-        <h1>Welcome to Azure MVC ASP.NET</h1>
+        <h1>Welcome to Azure MVC 2020 ASP.NET</h1>
         
 
         <div class="col-md-4">
