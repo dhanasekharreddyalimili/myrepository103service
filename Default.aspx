@@ -19,61 +19,8 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
         </div>
+         
         
-        
-        <div class="col-md-4">
-            <h2>Office 365 for Sharepoint</h2>
-            <p>
-               Welcome office 365 for sharepoint online.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        
-        
-
-         <div class="col-md-4">
-            <h2>sharepiont 2019</h2>
-            <p>
-               Welcome sharepoint 2019 technologies.Its really use to host applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <h1>welcome to Azure Devops </h1>
-         <h1>welcome to Azure azureDevops .........</h1>
-        <div class="col-md-4">
-            <h2>sharepiont 2016</h2>
-            <p>
-               Welcome sharepoint 2016 technologies.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-
-        <div class="col-md-4">
-            <h2>sharepiont 2019</h2>
-            <p>
-               Welcome sharepoint Office 365(SAAS) technologies.Its really use to deploy application.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        
-        
-        <div class="col-md-4">
-            <h2>sharepiont 2013</h2>
-            <p>
-               Welcome sharepoint 2013 technologies.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
 
         <div class="col-md-4">
             <h2>Get more libraries</h2>
