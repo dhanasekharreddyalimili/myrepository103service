@@ -20,8 +20,7 @@
             </p>
         </div>
          
-        <h1>Welcome to Azure MVC 2020 ASP.NET</h1>
-        <h1>Test</h1>
+        <font color="yellow"><h1>This site will not be accessable from 10 AM IST</h1></font>
 
         <div class="col-md-4">
             <h2>Get more libraries</h2>
