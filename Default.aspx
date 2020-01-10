@@ -20,9 +20,7 @@
             </p>
         </div>
          
-        <font color="yellow"><h1>This site will not be accessable from 10 AM IST</h1></font>
-        
-        <h1>Welcome to Office 365 services</h1>
+        <font color="green"><h1>Welcome to Azure Develops</h1></font>
 
         <div class="col-md-4">
             <h2>Get more libraries</h2>
