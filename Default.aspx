@@ -20,11 +20,17 @@
             </p>
         </div>
          
-        <font color="green"><h1>Welcome to Azure Develops</h1></font>
+        <font color="yellow"><h1>Welcome to Azure Develops</h1></font>
         
          <font color="green"><h1>Welcome to Azure Develops version2</h1></font>
         
-           <font color="green"><h1>Welcome to Azure Develops version3</h1></font>
+           <font color="red"><h1>Welcome to Azure Develops version3</h1></font>
+        
+        <font color="blue"><h1>Welcome to Azure Develops version4</h1></font>
+        
+        <font color="brown"><h1>Welcome to Azure Develops version5</h1></font>
+        
+          <font color="orange"><h1>Welcome to Azure Develops version6</h1></font>
 
         <div class="col-md-4">
             <h2>Get more libraries</h2>
