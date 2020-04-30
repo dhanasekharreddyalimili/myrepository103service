@@ -22,6 +22,8 @@
          
         <font color="yellow"><h1>Welcome to Azure Develops 2020</h1></font>
         <font color="yellow"><h1>Welcome to Azure cloudcomputing</h1></font>
+        
+         <font color="yellow"><h1>Welcome to Azure DevOPS</h1></font>
        
         <div class="col-md-4">
             <h2>Get more libraries</h2>
