@@ -20,7 +20,7 @@
             </p>
         </div>
          
-      <h1>Welcome to Azure CI/CD deployment<h1>
+     
        
         <div class="col-md-4">
             <h2>Get more libraries</h2>
