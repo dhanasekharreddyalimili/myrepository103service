@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
-        <p class="lead">Welcome to Azure Devops..Which comes under SAAS</p>
+        <p class="lead">Welcome to Devops 2021.....welcome to Azure cloud</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
